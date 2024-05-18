@@ -4,7 +4,7 @@
 
 ### Testing
 ```bash
-# Srtting the virtual environment
+# Setting the virtual environment
 
 python -m venv ui-env
 .\ui-env\Scripts\activate
