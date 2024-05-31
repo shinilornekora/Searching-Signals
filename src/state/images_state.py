@@ -6,3 +6,7 @@ def add_images(images_paths):
 
 def clear_images():
     images.clear()
+
+
+def get_images():
+    return images.copy()
