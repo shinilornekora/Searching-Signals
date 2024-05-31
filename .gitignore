@@ -1,4 +1,13 @@
 # No caches or dependencies there.
 
 /__pycache__
+*/__pycache__
+*/*/__pycache__
 /ui-env
+/temp
+*.png
+*.cpython-311.pyc
+*.xml
+*.txt
+*.pt
+
